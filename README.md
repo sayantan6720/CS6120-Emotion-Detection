@@ -31,19 +31,19 @@ The model achieves:
 - Total epochs: 2.0
 
 ## Prerequisites
-- Python 3.10+ 
-- pandas 
-- numpy 
-- datasets 
-- transformers 
-- torch 
-- matplotlib 
-- scikit-learn 
-- nltk 
-- nlpaug 
-- langchain 
-- python-dotenv 
-- typing
+- Python 3.10+
+- pandas==1.5.3
+- numpy==1.23.5
+- datasets==2.10.1
+- transformers==4.27.1
+- torch==1.13.1
+- matplotlib==3.6.3
+- scikit-learn==1.2.2
+- nltk==3.8.1
+- nlpaug==1.1.11
+- langchain==0.0.101
+- python-dotenv==1.0.0
+- typing-extensions==4.5.0
 
 ## Install dependencies
 pip install -r requirements.txt
