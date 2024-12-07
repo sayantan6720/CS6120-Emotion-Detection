@@ -1,0 +1,12 @@
+pandas
+numpy
+datasets
+transformers
+torch
+matplotlib
+scikit-learn
+nltk
+nlpaug
+langchain
+python-dotenv
+typing
